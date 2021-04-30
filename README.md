@@ -4,7 +4,7 @@ Solve 2nd order equations equal to zero.
 
 ### Type 1X instead of x²
 ### Type -4X instead of -4x²
-### Type 1X instead of x
+### Type 1x instead of x
 
 ### Program needs coefficient of every element. Even if its zero(0) you must indicate.
 
